@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Rayo",
+    "language": 5,
+    "math": 5,
+    "TIC": 10
+  },
+  {
+    "name": "Javi",
+    "language": 5,
+    "math": 7,
+    "TIC": 10
+  },
+  {
+    "name": "Nando",
+    "language": 8,
+    "math": 8,
+    "TIC": 8
+  },
+  {
+    "name": "Mary",
+    "language": 10,
+    "math": 8,
+    "TIC": 8
+  },
+  {
+    "name": "Maria",
+    "language": 10,
+    "math": 5,
+    "TIC": 4
+  },
+  {
+    "name": "Laura",
+    "language": 5,
+    "math": 5,
+    "TIC": 5
+  },
+  {
+    "name": "Claudia",
+    "language": 10,
+    "math": 6,
+    "TIC": 4
+  }
+]
